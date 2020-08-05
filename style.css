@@ -1,0 +1,47 @@
+<style>
+body {
+background-color: lightblue;
+font-family: Helvetica;
+}
+
+#main {
+width: 80%;
+max-width: 950px;
+border: 1px gray solid;
+margin: auto;
+padding: 10px;
+background-color: white;
+border-radius: 10px;
+}
+
+#header {
+margin-top: 0;
+border: 2px solid black;
+padding: 5px;
+height: 250px;
+background: beige;
+background-image: url("code.jpg");
+color: white;
+}
+</style>
+
+label {
+    display: block;
+    }
+    
+    input {
+    width: 30px;
+    margin-left: 20px;
+    }
+    
+    h2 {
+    clear: both;
+    padding-top: 20px;
+    }
+    
+    button {
+    width: 100px;
+    margin-top: 20px;
+    }
+    
+
